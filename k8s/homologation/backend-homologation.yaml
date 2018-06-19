@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: gcr.io/cloud-solutions-images/bit:snapshot
+        image: gcr.io/bitprojecttw/bit:snapshot
         resources:
           limits:
             memory: "500Mi"
